@@ -1,2 +1,3 @@
 # bird-Game
-classic bird game 
+classic bird game. 
+i wrote it in LOVE.
